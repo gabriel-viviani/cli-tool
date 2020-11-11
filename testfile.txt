@@ -27,10 +27,9 @@ https://24pullrequests.com/users.json?page=2
 https://24pullrequests.com/users.json?page=2
 https://24pullrequests.com/users.json?page=2
 https://24pullrequests.com/users.json?page=2
-https://24pullrequests.com/users.json?page=2
-https://24pullrequests.com/users.json?page=2
-https://24pullrequests.com/users.json?page=2
-https://24pullrequests.com/users.json?page=2
-https://24pullrequests.com/users.json?page=2
-https://24pullrequests.com/users.json?page=2
+https://connect.ifttt.com/v2/me?user_id=123
+https://connect.ifttt.com/v2/me?user_id=123
+https://connect.ifttt.com/v2/me?user_id=123
+https://connect.ifttt.com/v2/me?user_id=123
+https://connect.ifttt.com/v2/me?user_id=123
 
